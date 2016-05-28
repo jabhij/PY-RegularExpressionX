@@ -4,7 +4,7 @@ Everything you need to know about Regular Expression in python for scientific wo
 
 ### Things to Explore
 
-- Repo contains:
+You can explore:
  - Patterns
  - Characters
  - Modifiers
@@ -23,7 +23,7 @@ Everything you need to know about Regular Expression in python for scientific wo
 
 That was just a basic info. Feel free to contribute this.
 For any suggestion or query catch me @
-Twitter - @jabhij
-Web- www.letustweak.com
+- Twitter - @jabhij
+- Web - www.letustweak.com
 
 Cheers!
