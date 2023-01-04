@@ -59,4 +59,4 @@ match = re.search(r'[S]', string)
 if match:
     print 'Match:', match.group()
 else:
-    print 'Try Something Else!'
+    print 'Try Something Else !'
