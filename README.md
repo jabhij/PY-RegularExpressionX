@@ -22,7 +22,8 @@ You can explore:
 ### Catch me -
 
 For any query, ping me on 
-- Twitter: [@jabhij] (https://twitter.com/jabhij)
-- Web: [LetUsTweak] (http://letustweak.com)
+- [LinkedIn](https://www.linkedin.com/in/jabhij/)
+- Twitter: [@jabhij](https://twitter.com/jabhij)
+- Web: [LetUsTweak](http://letustweak.com)
 
 Hope, it helps!!  ヅ
