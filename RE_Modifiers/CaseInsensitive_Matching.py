@@ -1,11 +1,11 @@
 """
 re.I	--  Performs case-insensitive matching.
-Idea- (It's better to use it. Cause nothing and saves everything.)
+Idea- (It's better to use it. Cause nothing saves everything.)
 """
 
 """
-For Better Understanding, try to compare it with, any type of matching where the case matters. 
-For Example: $, ^ etc.
+For Better Understanding, try to compare it with, any matching where the case matters. 
+For Example $, ^, etc.
 """
 
 # Importing 're' Module
